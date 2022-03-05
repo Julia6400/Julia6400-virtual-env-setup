@@ -6,5 +6,5 @@ dependencies:
   - python == 3.8.10
   - pandas
   - isort
-
-conda env create -f environment.yml
+- pip:
+      black
