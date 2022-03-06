@@ -6,5 +6,7 @@ dependencies:
   - python == 3.8.10
   - pandas
   - isort
-- pip:
-      black
+  - pip:
+    black
+    pandas
+    numpy
